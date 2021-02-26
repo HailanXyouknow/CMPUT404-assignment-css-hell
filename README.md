@@ -36,7 +36,7 @@ Part 2
   - [ugly.html](./gutenberg/ugly.html) | [ugly.css](./gutenberg/ugly.css)
 - See screenshots: 
     - [good.png](./good.png)
-    - [ugly.png](./ugly.png)
+    - [bad.png](./bad.png)
 
 Resources Used
 ==============
