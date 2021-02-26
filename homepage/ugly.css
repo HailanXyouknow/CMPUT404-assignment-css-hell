@@ -1,0 +1,66 @@
+body{
+    background-color: orange;
+    margin: 10px;
+}
+
+.sidebar {
+    float: right;
+    height: 100%; 
+    width: 20%;
+    padding-bottom: 30%;
+}
+
+.sidebar div{
+    padding: 1%;
+    background-color: #f5cd84;
+}
+
+.sidebar h2{
+    color: blue;
+}
+
+.main {
+    height: 100%;
+    width: 80%;
+    background-color: pink;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgb(86, 86, 250) 2%, blue 72%,blue 100%);
+    color: white;
+    font-size: 30px;
+}
+
+/* https://w3bits.com/rainbow-text/ */
+/* Author: Rahul Arora */
+h1 {
+    background: rgb(255,0,0);
+    background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(253,247,29,1) 11%, rgba(69,252,250,1) 20%); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.navbar ul{ 
+    text-align: center;
+}
+
+.navbar li {
+    display: inline-block;
+    background: orange;
+    background: linear-gradient(#ffa600, #f2cd89);
+}
+
+.navbar li a {
+    display: block;
+    color: rgb(196, 108, 108);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+div > img {
+    width: 100px;
+}
