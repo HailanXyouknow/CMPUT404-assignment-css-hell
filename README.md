@@ -31,6 +31,9 @@ Part 1
 
 Part 2
 ======
+- Files"
+  - [good.html](./gutenberg/good.html) | [good.css](./gutenberg/good.css)
+  - [ugly.html](./gutenberg/ugly.html) | [ugly.css](./gutenberg/ugly.css)
 - See screenshots: 
     - [good.png](./good.png)
     - [ugly.png](./ugly.png)
@@ -49,6 +52,8 @@ Resources Used
 
 License/Copyright
 =================
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+Contents added by Hailan Xu is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][./LICENSE].
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
