@@ -32,8 +32,8 @@ Part 1
 Part 2
 ======
 - Files"
-  - [good.html](./gutenberg/good.html) | [good.css](./gutenberg/good.css)
-  - [ugly.html](./gutenberg/ugly.html) | [ugly.css](./gutenberg/ugly.css)
+  - [good.html](./homepage/good.html) | [good.css](./homepage/good.css)
+  - [ugly.html](./homepage/ugly.html) | [ugly.css](./homepage/ugly.css)
 - See screenshots: 
     - [good.png](./good.png)
     - [bad.png](./bad.png)
