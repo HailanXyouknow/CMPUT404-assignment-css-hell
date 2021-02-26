@@ -52,7 +52,9 @@ Resources Used
 
 License/Copyright
 =================
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Contents added by Hailan Xu is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][./LICENSE].
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
