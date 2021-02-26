@@ -19,16 +19,21 @@ Part 1
 - Headers are in bold.
 - Images are rounded; Captions are in white.
 - Other than the before mentioned color choices, links are light-orange and changes to light-pink upon hover. Visited links are white. This is to match with the rest of the color scheme and the background.
-- See screenshots: `[gutenberg1.png](./gutenberg1.png)`, `[gutenberg2.png](./gutenberg2.png)`, `[gutenberg3.png](./gutenberg3.png)`
+- See screenshots: 
+  - [gutenberg1.png](./gutenberg1.png)
+  - [gutenberg2.png](./gutenberg2.png)
+  - [gutenberg3.png](./gutenberg3.png)
 
 ### Original Files
-[Alice in Wonderland](http://www.gutenberg.org/files/11/11-h/11-h.htm)
-[A Christmas Carol](http://www.gutenberg.org/files/46/46-h/46-h.htm)
-[The Picture of Dorian Gray](http://www.gutenberg.org/files/174/174-h/174-h.htm)
+- [Alice in Wonderland](http://www.gutenberg.org/files/11/11-h/11-h.htm)
+- [A Christmas Carol](http://www.gutenberg.org/files/46/46-h/46-h.htm)
+- [The Picture of Dorian Gray](http://www.gutenberg.org/files/174/174-h/174-h.htm)
 
 Part 2
 ======
-- See screenshots: `[good.png](./good.png)`, `[ugly.png](./ugly.png)`
+- See screenshots: 
+    - [good.png](./good.png)
+    - [ugly.png](./ugly.png)
 
 Resources Used
 ==============
