@@ -19,7 +19,7 @@ Part 1
 - Headers are in bold.
 - Images are rounded; Captions are in white.
 - Other than the before mentioned color choices, links are light-orange and changes to light-pink upon hover. Visited links are white. This is to match with the rest of the color scheme and the background.
-- See screenshots: `[gutenberg1.png](gutenberg1.png)`, `[gutenberg2.png](gutenberg2.png)`, `[gutenberg3.png](gutenberg3.png)`
+- See screenshots: `[gutenberg1.png](./gutenberg1.png)`, `[gutenberg2.png](./gutenberg2.png)`, `[gutenberg3.png](./gutenberg3.png)`
 
 ### Original Files
 [Alice in Wonderland](http://www.gutenberg.org/files/11/11-h/11-h.htm)
@@ -28,7 +28,7 @@ Part 1
 
 Part 2
 ======
-- See screenshots: `[good.png](good.png)`, `[ugly.png](ugly.png)`
+- See screenshots: `[good.png](./good.png)`, `[ugly.png](./ugly.png)`
 
 Resources Used
 ==============
@@ -36,11 +36,11 @@ Resources Used
 * [Navbar - Author: w3schools](https://www.w3schools.com/css/css_navbar.asp)
 * [Rainbow Text - Author: Rahul Arora](https://w3bits.com/rainbow-text/)
 
-* [Background Picture](https://images.unsplash.com/photo-1532153259564-a5f24f261f51?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80)
-* [Gradient Background](https://cssgradient.io/)
-* [Wood Pattern](https://images.unsplash.com/photo-1555505019-8c3f1c4aba5f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-* [Workspace Image](https://unsplash.com/photos/DJ7bWa-Gwks)
-* [Keyboard Image](https://unsplash.com/photos/WzKPT0IuUrU)
+* [Image - Background Picture](https://images.unsplash.com/photo-1532153259564-a5f24f261f51?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80)
+* [Image - Gradient Background](https://cssgradient.io/)
+* [Image - Wood Pattern](https://images.unsplash.com/photo-1555505019-8c3f1c4aba5f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+* [Image - Workspace Image - Author: Ian Dooley](https://unsplash.com/photos/DJ7bWa-Gwks)
+* [Image - Keyboard Image - Author: Dries Augustyns](https://unsplash.com/photos/WzKPT0IuUrU)
 
 License/Copyright
 =================
