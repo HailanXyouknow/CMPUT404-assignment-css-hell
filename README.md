@@ -26,12 +26,15 @@ Part 1
 [A Christmas Carol](http://www.gutenberg.org/files/46/46-h/46-h.htm)
 [The Picture of Dorian Gray](http://www.gutenberg.org/files/174/174-h/174-h.htm)
 
-
-
 Resources Used
 ==============
 * [Background Picture](https://images.unsplash.com/photo-1532153259564-a5f24f261f51?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80)
 * [Fix Background with No Repeat](https://www.w3schools.com/cssref/pr_background-attachment.asp)
+* [Gradient Background](https://cssgradient.io/)
+* [Wood Pattern](https://images.unsplash.com/photo-1555505019-8c3f1c4aba5f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+* [Navbar](https://www.w3schools.com/css/css_navbar.asp)
+* [Workspace Image](https://unsplash.com/photos/DJ7bWa-Gwks)
+* [Keyboard Image](https://unsplash.com/photos/WzKPT0IuUrU)
 
 License/Copyright
 =================

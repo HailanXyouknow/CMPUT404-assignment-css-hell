@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@600&display=swap');
+body {
+    font-family: 'Shippori Mincho', serif;
+    color:rgb(48, 48, 48)
+}
+
+.wood {
+    display: block;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    text-shadow: 2px 2px #033470;
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgba(0,212,255,1) 28%, #0695e3 72%, rgba(0,164,255,1) 100%);
+    color: white;
+    font-size: 30px;
+}
+
+/* everything on the right */
+.sidebar {
+    padding: 1%;
+    float: right;
+    height: 100%; 
+    width: 20%;
+}
+
+.sidebar div{
+    padding: 5%;
+    margin: 2%;
+    background-color: rgb(220, 219, 219);
+}
+
+.sidebar h2{
+    color: #0695e3;
+}
+
+/* everything on the left */
+.main {
+    height: 100%;
+    width: 70%;
+    padding: 3%;
+}
+
+.main h2{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.main_block {
+    float: left;
+    width: 100%;
+}
+
+.block_text {
+    display: block-inline;
+}
+
+#about_me img {
+    float: left;
+    width: 25%;
+    margin: 3%;
+}
+
+#professional_history img{
+    float: right;
+    width: 25%;
+    margin: 3%;
+}
+
+#skills img{
+    float: left;
+    width: 25%;
+    margin: 3%;
+}
+
+/* navbar */
+.navbar ul{ 
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(198,198,198);
+    background: linear-gradient(0deg, rgb(99, 98, 98) 5%, rgba(48,47,47,1) 47%, rgba(48,47,47,1) 60%);
+}
+.navbar li {
+    display: inline-block;
+}
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: #2d2b2b;
+}
+
+a:link {color:rgb(7, 24, 104); text-decoration:none}
+a:visited {color:rgb(46, 46, 46); text-decoration:none}
+a:hover {color:rgb(0,212,255)}
